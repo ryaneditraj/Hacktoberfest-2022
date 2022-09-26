@@ -19,3 +19,9 @@ Hacktoberfest is open to everyone in our global community!
 - #### If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 - #### If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 - #### A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
+## About this Repository
+- #### This repo is created to help the students with a PR for HacktoberFest 2022.Just check out the repo and look for any Algorithm or Project which is currently not in the repo ,which you can add or modify/Update the existing projects.
+
+- #### This repository is language independent.Just make sure your file has a mention of the language(python or c++...) in which you are submitting your codes in. Readme file will be a plus point.
+
+- #### Make sure you are not submitting an already existing algo or question.
