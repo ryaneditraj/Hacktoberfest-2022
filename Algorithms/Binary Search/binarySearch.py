@@ -5,6 +5,7 @@ end = len(list)-1
 
 flag = 0
 while start < end and flag == 0:
+    
     midpoint = (start+end)//2
 
     if list[midpoint] == inp:
